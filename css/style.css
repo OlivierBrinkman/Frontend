@@ -1,0 +1,9 @@
+.inline-block {
+  padding: 10px;
+  background: #fa5000;
+  margin: 10px;
+  display: inline-block;
+  position: relative;
+  width: 30%;
+  height: 300px;
+}
